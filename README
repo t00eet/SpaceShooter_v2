@@ -1,0 +1,28 @@
+*****************************************
+* XNA Space Shooter v2
+* Author: Robert Lowe
+* Purpose: Exploring XNA for the first time
+* Platform: Windows
+*****************************************
+
+Building and Running:
+
+XNA libraries are required.
+A visual studio project is provided to build and run the game.
+It has yet to be tested on Linux using mono.
+
+Version History:
+
+Version 1.0:
+
+Basic player ship movement, weapon system, and health
+Looping enemies waves flying in straight lines at random heights on screen
+Star field background using basic particle generation
+
+Version 2.0:
+
+Levels based on XML files.  Each XML represents a single level and defines
+ enemy waves, number of enemy formation per way, enemy type, enemy 
+ weapon type, rate of fire, and movement patterns.
+Enemy movement patterns based on seperate XML files referenced in main
+ level XML's.
