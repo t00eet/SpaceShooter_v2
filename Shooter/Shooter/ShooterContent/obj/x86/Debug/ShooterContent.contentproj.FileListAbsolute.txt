@@ -1,0 +1,2 @@
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS 2010 Projects\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache

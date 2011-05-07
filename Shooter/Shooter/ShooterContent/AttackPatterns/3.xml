@@ -1,0 +1,4 @@
+<P exitSpeed="5">
+	<M1 moveX="1536" speedX="5" moveY="702" speedY="0" wait="2" />
+	<M2 moveX="1286" speedX="5" moveY="452" speedY="5" wait="0" />
+</P>

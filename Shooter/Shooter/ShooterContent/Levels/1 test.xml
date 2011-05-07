@@ -1,0 +1,9 @@
+<L>
+	<W1 d="10">
+		<F d="3">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="324" endX="-200" endY="324" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="524" endX="-200" endY="524" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="724" endX="-200" endY="724" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="2" fireRate="1" />
+		</F>
+	</W1>
+</L>

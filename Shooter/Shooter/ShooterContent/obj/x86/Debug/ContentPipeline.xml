@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bug.png</Source>
+      <Name>bug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bug.xnb</Output>
+      <Time>2010-12-28T13:24:58.4415427-06:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2010-12-28T13:24:58.6055521-06:00</Time>
+    </Item>
+    <Item>
+      <Source>drone.png</Source>
+      <Name>drone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\drone.xnb</Output>
+      <Time>2010-12-28T13:24:58.6405541-06:00</Time>
+    </Item>
+    <Item>
+      <Source>energy_shot.png</Source>
+      <Name>energy_shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\energy_shot.xnb</Output>
+      <Time>2010-12-29T21:44:08.9684122-06:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion_sheet.png</Source>
+      <Name>explosion_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion_sheet.xnb</Output>
+      <Time>2010-12-28T13:24:59.3775963-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fighter_silhouette.png</Source>
+      <Name>fighter_silhouette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\fighter_silhouette.xnb</Output>
+      <Time>2010-12-28T13:24:59.4636012-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fighter.png</Source>
+      <Name>fighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\fighter.xnb</Output>
+      <Time>2011-01-01T15:26:47.4041016-06:00</Time>
+    </Item>
+    <Item>
+      <Source>flathead.png</Source>
+      <Name>flathead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\flathead.xnb</Output>
+      <Time>2010-12-28T13:24:59.5266048-06:00</Time>
+    </Item>
+    <Item>
+      <Source>green_laser.png</Source>
+      <Name>green_laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\green_laser.xnb</Output>
+      <Time>2010-12-28T13:24:59.5556065-06:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.png</Source>
+      <Name>missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\missile.xnb</Output>
+      <Time>2010-12-28T13:24:59.6276106-06:00</Time>
+    </Item>
+    <Item>
+      <Source>red_bullet.png</Source>
+      <Name>red_bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\red_bullet.xnb</Output>
+      <Time>2010-12-28T13:24:59.7126154-06:00</Time>
+    </Item>
+    <Item>
+      <Source>star_dot.png</Source>
+      <Name>star_dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\star_dot.xnb</Output>
+      <Time>2010-12-28T13:24:59.7896198-06:00</Time>
+    </Item>
+    <Item>
+      <Source>theme_v2.mp3</Source>
+      <Name>theme_v2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\theme_v2.xnb</Output>
+      <Extra>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\theme_v2.wma</Extra>
+      <Time>2010-12-28T13:24:58.2055292-06:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2010-12-29T18:16:12.2677858-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound_explosion.wav</Source>
+      <Name>sound_explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\sound_explosion.xnb</Output>
+      <Time>2010-12-27T21:53:35.9072446-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound_laser.wav</Source>
+      <Name>sound_laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\sound_laser.xnb</Output>
+      <Time>2010-12-27T21:53:35.9282458-06:00</Time>
+    </Item>
+    <Item>
+      <Source>energy_shot2.png</Source>
+      <Name>energy_shot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\energy_shot2.xnb</Output>
+      <Time>2010-12-29T21:52:11.9690383-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverFont.spritefont</Source>
+      <Name>GameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\GameOverFont.xnb</Output>
+      <Time>2010-12-30T22:06:11.2891372-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2010-12-30T22:06:52.633502-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\VS 2010 Projects\Shooter\Shooter\ShooterContent\</RootDirectory>
+      <LoggerRootDirectory>D:\VS 2010 Projects\Shooter\Shooter\Shooter\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\VS 2010 Projects\Shooter\Shooter\ShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-08T19:18:55.6306642-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

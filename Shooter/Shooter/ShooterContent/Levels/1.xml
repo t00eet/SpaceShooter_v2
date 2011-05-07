@@ -1,0 +1,184 @@
+<L>
+	<W d="10">
+		<F d="3">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="324" endX="-200" endY="324" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="drone" shot="green_laser" health="1" startX="2000" startY="524" endX="-200" endY="524" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="724" endX="-200" endY="724" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="2" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="700" endX="-200" endY="700" ap="RisingLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="2" />
+			<E type="bug" shot="red_bullet" health="5" startX="1500" startY="1080" endX="1920" endY="880" ap="RisingLingerRetreat" sp="StraightShotLeft" shotSpeed="10" fireCount="2" fireRate="2" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="200" endX="-200" endY="200" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="500" endX="-200" endY="500" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="12" fireCount="2" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="800" endX="-200" endY="800" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="1" />
+		</F>
+	</W>
+
+	<W d="10">
+		<F d="3">
+			<E type="bug" shot="red_bullet" health="5" startX="1920" startY="200" endX="-200" endY="600" ap="LingerFlyBy" sp="StraightShotLeft" shotSpeed="12" fireCount="4" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="5" startX="2000" startY="400" endX="-200" endY="800" ap="LingerFlyBy" sp="StraightShotLeft" shotSpeed="12" fireCount="4" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="5" startX="1920" startY="600" endX="-200" endY="200" ap="LingerFlyBy" sp="StraightShotLeft" shotSpeed="12" fireCount="4" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="5" startX="2000" startY="800" endX="-200" endY="400" ap="LingerFlyBy" sp="StraightShotLeft" shotSpeed="12" fireCount="4" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="700" endX="-200" endY="500" ap="RisingLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="200" endX="-200" endY="400" ap="FlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="500" endX="-200" endY="800" ap="FlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="1" />
+		</F>
+	</W>
+
+	<W d="10">
+		<F d="3">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="224" endX="-200" endY="424" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="1" fireRate="1" />
+			<E type="drone" shot="green_laser" health="1" startX="2000" startY="524" endX="-200" endY="524" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="1" fireRate="1" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="824" endX="-200" endY="624" ap="FlyBy" sp="StraightShotLeft" shotSpeed="10" fireCount="1" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="bug" shot="red_bullet" health="3" startX="1920" startY="700" endX="-200" endY="-200" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="5" startX="1500" startY="1080" endX="1920" endY="880" ap="RisingLingerRetreat" sp="3ShotSpread" shotSpeed="15" fireCount="1" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="200" endX="-200" endY="200" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="3" startX="1920" startY="500" endX="-200" endY="500" ap="FlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="800" endX="-200" endY="800" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="1" />
+		</F>
+	</W>
+
+	<W d="10">
+		<F d="2">
+			<E type="bug" shot="red_bullet" health="3" startX="1000" startY="-200" endX="-200" endY="300" ap="ShiftDown500" sp="3ShotSpread" shotSpeed="8" fireCount="2" fireRate="2" />
+			<E type="bug" shot="red_bullet" health="5" startX="1000" startY="1280" endX="-200" endY="780" ap="ShiftUp500" sp="3ShotSpread" shotSpeed="8" fireCount="2" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="540" endX="1220" endY="-200" ap="ShortLingerRetreat" sp="StraightShotLeft" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="540" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="StraightShotLeft" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="540" endX="1220" endY="-200" ap="ShortLingerRetreat" sp="StraightShotLeft" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="540" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="StraightShotLeft" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="540" endX="1220" endY="-200" ap="ShortLingerRetreat" sp="StraightShotLeft" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+
+		<F d="2">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="700" endX="-200" endY="700" ap="FlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="1" fireRate="2" />
+			<E type="bug" shot="red_bullet" health="5" startX="1500" startY="1080" endX="1920" endY="880" ap="RisingLingerRetreat" sp="3ShotSpread" shotSpeed="8" fireCount="2" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="400" endX="-200" endY="600" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="2100" startY="700" endX="-200" endY="800" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="1" />
+		</F>
+	</W>
+	
+	<W d="5">
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="210" endX="1020" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="796" endX="1020" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="210" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="796" endX="2620" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="210" endX="1220" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="796" endX="2620" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="210" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="796" endX="2620" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="210" endX="1220" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="796" endX="2620" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+	</W>
+
+	<W d="10">
+		<F d="3">
+			<E type="bug" shot="red_bullet" health="5" startX="1920" startY="200" endX="-200" endY="150" ap="FlyBy" sp="StraightShotLeft" shotSpeed="15" fireCount="2" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="5" startX="2000" startY="300" endX="-200" endY="250" ap="FlyBy" sp="StraightShotLeft" shotSpeed="15" fireCount="2" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="700" endX="-200" endY="700" ap="FlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="5" startX="1500" startY="1080" endX="1920" endY="880" ap="RisingLingerRetreat" sp="StraightShotLeft" shotSpeed="15" fireCount="2" fireRate="1" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="200" endX="-200" endY="200" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="500" endX="-200" endY="500" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="800" endX="-200" endY="800" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="1" />
+		</F>
+	</W>
+
+	<W d="5">
+		<F d="3">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="324" endX="-200" endY="324" ap="FlyBy" sp="StraightShotLeft" shotSpeed="15" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="524" endX="-200" endY="524" ap="FlyBy" sp="StraightShotLeft" shotSpeed="15" fireCount="3" fireRate="2" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="700" endX="-200" endY="500" ap="FlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="2" fireRate="1" />
+			<E type="bug" shot="red_bullet" health="5" startX="1200" startY="1080" endX="1920" endY="580" ap="RisingLingerRetreat" sp="StraightShotLeft" shotSpeed="15" fireCount="1" fireRate="2" />
+		</F>
+
+		<F d="3">
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="200" endX="-200" endY="200" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="2000" startY="500" endX="-200" endY="500" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="15" fireCount="3" fireRate="1" />
+			<E type="flathead" shot="missile" health="3" startX="1920" startY="800" endX="-200" endY="800" ap="LingerFlyBy" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="1" />
+		</F>
+	</W>
+	
+	<W d="10">
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="10" endX="1220" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="996" endX="1220" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="10" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="996" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="10" endX="1220" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="996" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="10" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="996" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+		
+		<F d="0.5">
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="10" endX="1220" endY="-200" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+			<E type="drone" shot="green_laser" health="1" startX="1920" startY="996" endX="2620" endY="1080" ap="ShortLingerRetreat" sp="3ShotSpread" shotSpeed="10" fireCount="3" fireRate="2" />
+		</F>
+	</W>
+</L>

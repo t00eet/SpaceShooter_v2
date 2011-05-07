@@ -1,0 +1,52 @@
+<L2>
+	<W1 d="10">
+		<F1 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F1>
+
+		<F2 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F2>
+
+		<F3 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F3>
+	</W1>
+
+	<W2 d="10">
+		<F1 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F1>
+
+		<F2 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F2>
+
+		<F3 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F3>
+	</W2>
+
+	<W3 d="10">
+		<F1 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F1>
+
+		<F2 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F2>
+
+		<F3 d="4">
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+			<E type="drone" startX="1.2" startY="0.3" endX="-0.3" endY="-0.3" AP="1"/>
+		</F3>
+	</W3>
+</L2>

@@ -1,0 +1,48 @@
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bug_tiny.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\circle.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\drone_tiny.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\energy_shot.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion_sheet.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\fighter_silhouette.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\fighter_tiny.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\flathead_tiny.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\green_laser.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\missile.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\red_bullet.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\star_dot.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\theme_v2.xnb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\theme_v2.wma
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+d:\documents 2\visual studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bug.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\circle.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\drone.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\energy_shot.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion_sheet.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\fighter_silhouette.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\fighter.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\flathead.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\green_laser.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\missile.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\red_bullet.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\star_dot.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\theme_v2.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\theme_v2.wma
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\sound_explosion.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\sound_laser.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\energy_shot2.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\GameOverFont.xnb
+D:\VS 2010 Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\ScoreFont.xnb
