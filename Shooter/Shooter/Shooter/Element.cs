@@ -24,10 +24,6 @@ namespace Shooter
 		public bool m_finished = false;
 		public float m_rotation = 0.0f;
 
-		public Element()
-		{
-
-		}
 
 		public Element(Texture2D texture, float x, float y)
 		{
